@@ -52,3 +52,12 @@ a{
     height: 100%;
 
 }
+
+.square{
+    width: 10rem;
+    height: 10rem;
+    background: rgb(52, 140, 199);
+    position: absolute;
+    top: 70%;
+    left: 70%;
+}
